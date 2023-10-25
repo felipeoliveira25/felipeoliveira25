@@ -25,8 +25,3 @@
 Apaixonado por programação, sempre disposto a aprender e desbravar novas áreas da tecnologia.
 <br><br>
 
-## Linguagens mais utilizadas
-
-<br>
-
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeoliveira25&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
