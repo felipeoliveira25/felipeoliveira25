@@ -8,12 +8,7 @@
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeoliveira25&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que utilizo no meu dia a dia
-
-<div style="display: inline-block"><br>
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,wasm)](https://skillicons.dev)
-
- 
-<div>
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,mongodb,express)](https://skillicons.dev)
 
 
 <br>
