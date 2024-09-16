@@ -1,6 +1,8 @@
 
 
-### Olá!! Sou Felipe Oliveira 💻
+### Hello, I'm Felipe 💻
+### How are you?
+## I'm Front-end Developer
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeoliveira25/)
 
@@ -10,7 +12,5 @@
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,mongodb,express,tailwind,next,cypress,jest)](https://skillicons.dev)
 
 
-<br>
-Sempre buscando aprender, viciado em novos desafios!
-<br><br>
+
 
